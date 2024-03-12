@@ -30,7 +30,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository</p>
 
 ```bash
-    git clone https://github.com/daacyberian/Guess-The-Personality.git
+    git clone https://github.com/Fabihafaheem2004/Project.git
 ```
 
 <p>2. Install & Run C Language modules</p>
