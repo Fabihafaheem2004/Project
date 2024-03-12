@@ -36,11 +36,11 @@ Here're some of the project's best features:
 <p>2. Install & Run C Language modules</p>
 
 ```bash
-  install-- gcc -o snake_game snake_game.c
+  install-- gcc -o snake snake.c
 ```
 
 ```bash
-  run-- ./snake_game.exe
+  run-- ./snake.exe
 ```
 
 <h2 align="center">Working </h2>
